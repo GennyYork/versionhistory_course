@@ -3,3 +3,7 @@ Github versioning course test repository
 
 Q: In the past month, what are the three main activities you have been doing at work?
 A: Answering emails, maintaining YorkSpace, helping in the MCL
+
+Name: Alex Wong
+Q: In the past month, what are the three main activities you have been doing at work? 
+A: Teaching, consulting, and researching
